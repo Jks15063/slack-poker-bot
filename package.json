@@ -3,6 +3,9 @@
   "version": "0.0.9",
   "repository": "https://github.com/CharlieHess/slack-poker-bot",
   "license": "MIT",
+  "scripts": {
+      "start": "node src/main.js"
+  },
   "devDependencies": {
     "babel": "^5.0.12",
     "chai": "^2.2.0",
